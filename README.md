@@ -1,5 +1,5 @@
 # Pedrossadora
-Es una Mini calculadora echa y fabricada por dioses
+Es una Mini calculadora hecha y fabricada por dioses
 
 
 ![Image of Pedrossadora](Screenshot.png)
